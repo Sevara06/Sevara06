@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sevara Jabbarova</h1>
 <h3 align="center">A passionate Frontend developer from Uzbekistan</h3>
 
-![pexels-rsantos1232-3888151](https://github.com/user-attachments/assets/791b4cdb-e62d-47a8-9d23-6b31074edc1a)
+![68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d4767575938526b67594d41414141432f68656c6c6f2d776f726c642e676966](https://github.com/user-attachments/assets/8a8cee1d-426b-4cb6-b039-3b527be477b9)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdev&label=Profile%20views&color=0e75b6&style=flat" alt="mdev" /> </p>
